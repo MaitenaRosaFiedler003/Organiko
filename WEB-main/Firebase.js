@@ -3,7 +3,7 @@ import { getFirestore, collection, addDoc } from "https://www.gstatic.com/fireba
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCECiCk4tWmTY6CjF2_IGhmdm05soMX46U",
+  apiKey: "",
   authDomain: "organiko-cedb5.firebaseapp.com",
   projectId: "organiko-cedb5",
   storageBucket: "organiko-cedb5.appspot.com",
